@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">lesson_1</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="setText">отобразить введенные данные</string>
+    <string name="setTextEng">display entered data</string>
+    <string name="en_rus">RUS/EN</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="light_dark">БОДРОСТЬ</string>
+    <string name="light_darkEng">CHEERFUL</string>
+    <string name="text">text</string>
+    <string name="textpersonname">textPersonName</string>
+    <string name="phone">phone</string>
+    <string name="number">number</string>
+    <string name="textpassword">textPassword</string>
+    <string name="date">date</string>
+    <string name="textemailaddress">textEmailAddress</string>
 </resources>
